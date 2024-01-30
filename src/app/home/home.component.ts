@@ -10,7 +10,7 @@ import { HouseingLocationComponent } from '../houseing-location/houseing-locatio
     <section>
       <form>
         <input type="test" placeholder="filter by city">
-        <button class="primary" type="buttom">Search</button>
+        <button class="primary" type="buttom">Search please</button>
       </form>
     <section class="results">
       <app-houseing-location></app-houseing-location>
