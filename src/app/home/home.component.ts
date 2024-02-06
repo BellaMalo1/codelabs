@@ -69,7 +69,7 @@ export class HomeComponent {
       name: 'Happy Homes Group',
       city: 'Gary',
       state: 'IN',
-      photo: '/assets/krzysztof-hepner-978RAXoXnH4-unsplash.jpg',
+      photo: '/assets/T0351JZQ0-U03HHUMPFE3-622d056e93b4-512.png',
       availableUnits: 1,
       wifi: true,
       laundry: false
